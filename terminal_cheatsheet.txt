@@ -1,0 +1,13 @@
+“~”  home directory
+“LS” list of files
+“LS-l” long from, extra info
+“LS-a” Show hidden
+“Ls -al” Combines files, to show 
+“Clear” to clear terminal
+“Cd” change directory
+“rm -r" remove file\folder
+“Cd ..” Go up a lvl in the file tree
+"Cd ~" go to home directory
+“Touch” create file
+"Mkdir" create folder
+"Open" open file\folder
